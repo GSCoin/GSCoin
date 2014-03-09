@@ -1,0 +1,9 @@
+Building GSCoin
+
+See doc/readme-qt.rst for instructions on building GSCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GSCoin.
+
+See doc/build-*.txt for instructions on building GSCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GSCoin.
